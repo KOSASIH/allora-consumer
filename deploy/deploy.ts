@@ -10,7 +10,7 @@ const contractInfoMap = {
   },
 }
 
-const ADMIN = '0xA62c64Ec38d4b280192acE99ddFee60768C51562'
+const ADMIN = '0x373Ec75e4e99CA59e367bA667EC38B2e14Af390B'
 
 const deploy = async () => {
   const deployer = new Deployer(contractInfoMap)
